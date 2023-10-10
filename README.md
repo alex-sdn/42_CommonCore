@@ -15,7 +15,7 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <td colspan="4"><b>Rank 00</b></td>
     </tr>
     <tr>
-      <td>Libft</td>
+      <td><a href="https://github.com/alex-sdn/Libft">Libft</a></td>
       <td>Library of essential C functions</td>
       <td>C</td>
       <th>:white_check_mark:</th>
@@ -24,13 +24,13 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <td colspan="4"><b>Rank 01</b></td>
     </tr>
     <tr>
-      <td>ft_printf</td>
+      <td><a href="https://github.com/alex-sdn/ft_printf">ft_printf</a></td>
       <td>Recreating a simplified printf()</td>
       <td>C</a></td>
       <th>:white_check_mark:</th>
     </tr>
     <tr>
-      <td>get_next_line</td>
+      <td><a href="https://github.com/alex-sdn/get_next_line">get_next_line</a></td>
       <td>Function to return a line read from a file descriptor</td>
       <td>C</td>
       <th>:white_check_mark:</th>
@@ -45,19 +45,19 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <td colspan="4"><b>Rank 02</b></td>
     </tr>
     <tr>
-      <td>pipex</td>
+      <td><a href="https://github.com/alex-sdn/pipex">pipex</a></td>
       <td>Reproducing bash pipes</td>
       <td>C</a></td>
       <th>:white_check_mark:</th>
     </tr>
     <tr>
-      <td>push_swap</td>
+      <td><a href="https://github.com/alex-sdn/push_swap">push_swap</a></td>
       <td>Sorting algorithm for a stack</td>
       <td>C</a></td>
       <th>:white_check_mark:</th>
     </tr>
     <tr>
-      <td>fract-ol</td>
+      <td><a href="https://github.com/alex-sdn/fract-ol">fract-ol</a></td>
       <td>Displaying fractals with the MiniLibX</td>
       <td>C</a></td>
       <th>:white_check_mark:</th>
@@ -66,13 +66,13 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <td colspan="4"><b>Rank 03</b></td>
     </tr>
     <tr>
-      <td>Philosophers</td>
+      <td><a href="https://github.com/alex-sdn/Philosophers">Philosophers</a></td>
       <td>Learning multithreading through the Dining Philosophers problem</td>
       <td>C</a></td>
       <th>:white_check_mark:</th>
     </tr>
     <tr>
-      <td>minishell</td>
+      <td><a href="https://github.com/alex-sdn/minishell">minishell</a></td>
       <td>Writing a Unix shell based on bash</td>
       <td>C</a></td>
       <th>:white_check_mark:</th>
@@ -81,7 +81,7 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <td colspan="4"><b>Rank 04</b></td>
     </tr>
     <tr>
-      <td>miniRT</td>
+      <td><a href="https://github.com/alex-sdn/miniRT">miniRT</a></td>
       <td>Raytracer with the MiniLibX</td>
       <td>C</a></td>
       <th>:white_check_mark:</th>
@@ -93,7 +93,7 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <th>:white_check_mark:</th>
     </tr>
     <tr>
-      <td>CPP Modules 0-4</td>
+      <td><a href="https://github.com/alex-sdn/CPP_Modules">CPP Modules 0-4</a></td>
       <td>Part 1 of the C++ Piscine</td>
       <td>C++</a></td>
       <th>:white_check_mark:</th>
@@ -102,13 +102,13 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <td colspan="4"><b>Rank 05</b></td>
     </tr>
     <tr>
-      <td>CPP Modules 5-9</td>
+      <td><a href="https://github.com/alex-sdn/CPP_Modules">CPP Modules 5-9</a></td>
       <td>Part 2 of the C++ Piscine</td>
       <td>C++</a></td>
       <th>:white_check_mark:</th>
     </tr>
     <tr>
-      <td>Inception</td>
+      <td><a href="https://github.com/alex-sdn/Inception">Inception</a></td>
       <td>Setting up a Wordpress website with Docker containers</td>
       <td>Docker</a></td>
       <th>:white_check_mark:</th>
