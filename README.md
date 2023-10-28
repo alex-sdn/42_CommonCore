@@ -114,7 +114,7 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <th>:white_check_mark:</th>
     </tr>
     <tr>
-      <td>ft_irc</td>
+      <td><a href="https://github.com/swilene/42_ft_irc">ft_irc</a></td>
       <td>An IRC server for the IRSSI client</td>
       <td>C++</a></td>
       <th>:white_check_mark:</th>
@@ -124,7 +124,7 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
     </tr>
     <tr>
       <td>ft_transcendence</td>
-      <td>wip</td>
+      <td>WORK IN PROGRESS</td>
       <td>TypeScript</a></td>
       <th>WIP</th>
     </tr>
