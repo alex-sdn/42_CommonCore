@@ -1,5 +1,5 @@
 # 42_CommonCore
-All my projects for 42 Paris' Common Core. November 2022 - Present.
+All my projects for 42 Paris' Common Core. November 2022 - December 2023.
 
 <table>
   <thead>
