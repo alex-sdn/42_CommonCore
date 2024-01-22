@@ -123,9 +123,9 @@ All my projects for 42 Paris' Common Core. November 2022 - Present.
       <td colspan="4"><b>Rank 06</b></td>
     </tr>
     <tr>
-      <td>ft_transcendence</td>
-      <td>WORK IN PROGRESS</td>
+      <td><a href="https://github.com/alex-sdn/ft_transcendence">ft_transcendence</a></td>
+      <td>A website for playing Pong with friends</td>
       <td>TypeScript</a></td>
-      <th>WIP</th>
+      <th>:white_check_mark:</th>
     </tr>
     
